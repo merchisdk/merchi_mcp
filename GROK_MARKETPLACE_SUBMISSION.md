@@ -21,7 +21,7 @@ Add this entry to the `plugins` array in `.grok-plugin/marketplace.json`:
   "category": "ecommerce",
   "source": {
     "source": "url",
-    "url": "https://github.com/merchisdk/merchi-mcp.git",
+    "url": "https://github.com/merchisdk/merchi_mcp.git",
     "sha": "0000000000000000000000000000000000000000"
   },
   "homepage": "https://merchi.co/mcp",
@@ -65,8 +65,8 @@ The SHA must be:
 | Field | Value |
 |-------|-------|
 | Owner | `merchisdk` |
-| Repository | `merchi-mcp` |
-| URL | https://github.com/merchisdk/merchi-mcp |
+| Repository | `merchi_mcp` |
+| URL | https://github.com/merchisdk/merchi_mcp |
 | Branch | `main` |
 
 ## Plugin Metadata
@@ -94,7 +94,7 @@ No API keys, environment tokens, or manual setup required. Users authenticate vi
 
 Before submitting:
 
-- [ ] Plugin installs successfully: `grok plugin install merchisdk/merchi-mcp --trust`
+- [ ] Plugin installs successfully: `grok plugin install merchisdk/merchi_mcp --trust`
 - [ ] MCP server connects: `grok mcp doctor merchi`
 - [ ] OAuth flow completes successfully
 - [ ] Commit SHA is pinned to a public commit
