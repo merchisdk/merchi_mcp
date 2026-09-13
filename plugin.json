@@ -1,0 +1,21 @@
+{
+  "name": "merchi",
+  "version": "1.0.0",
+  "description": "MCP connector for Merchi — Australia's custom merchandise platform (merchi.co). Access product catalogs, quotes, orders, and workflows via natural language.",
+  "author": {
+    "name": "Merchi",
+    "url": "https://merchi.co"
+  },
+  "homepage": "https://merchi.co/mcp",
+  "repository": "https://github.com/merchisdk/merchi-mcp",
+  "license": "MIT",
+  "keywords": [
+    "merchi",
+    "merchandise",
+    "custom-products",
+    "promotional-products",
+    "ecommerce",
+    "print-on-demand",
+    "australia"
+  ]
+}
