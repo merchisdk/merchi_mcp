@@ -1,0 +1,22 @@
+{
+  "name": "Merchi MCP",
+  "description": "MCP connector for Merchi — Australia's custom merchandise platform",
+  "owner": {
+    "name": "Merchi",
+    "url": "https://merchi.co"
+  },
+  "plugins": [
+    {
+      "name": "merchi",
+      "description": "Access Merchi's custom merchandise platform via MCP. Create quotes, manage orders, browse catalogs, and automate workflows.",
+      "category": "ecommerce",
+      "source": {
+        "type": "local",
+        "path": "./"
+      },
+      "homepage": "https://merchi.co/mcp",
+      "keywords": ["merchi", "merchandise", "ecommerce", "australia", "custom-products"],
+      "domains": ["merchi.co", "api.merchi.co"]
+    }
+  ]
+}

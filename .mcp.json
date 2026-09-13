@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "merchi": {
+      "type": "http",
+      "url": "https://api.merchi.co/v6/mcp"
+    }
+  }
+}
