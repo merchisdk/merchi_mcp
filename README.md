@@ -42,8 +42,10 @@ grok plugin marketplace list
 Install directly from this repository:
 
 ```bash
-grok plugin install merchisdk/merchi-mcp --trust
+grok plugin install merchisdk/merchi_mcp --trust
 ```
+
+> **Note:** This repository was renamed from `merchi-mcp` to `merchi_mcp`. The old GitHub URL (`github.com/merchisdk/merchi-mcp`) automatically redirects to the current location.
 
 ### Custom Connector / Manual Setup
 
